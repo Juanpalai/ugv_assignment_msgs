@@ -1,0 +1,5 @@
+string state
+float64 linear_velocity
+float64 angular_velocity
+float64 front_left_steering_angle
+float64 front_right_steering_angle
